@@ -6,3 +6,6 @@ Los Scripts que se encuentran en esta carpeta son complementarios al programa IS
 Se trata de scripts que permiten la limpieza de los datos obtenidos al correr el programa IS-Compare y el análisis gráfico de esos datos.
 
 
+En las primeras lineas de cada uno de los archivos que se encuentran en este proyecto se describe la función que realiza ese script.
+
+
